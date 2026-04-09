@@ -71,3 +71,9 @@ This project identifies customers who will respond **because of marketing**, not
 [View Notebook](uplift_modeling_project.ipynb)
 
 ---
+
+##  Future Improvements
+- Implement Qini Curve for better evaluation
+- Try advanced uplift models like X-Learner
+
+---
